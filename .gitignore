@@ -1,1 +1,8 @@
 .DS_Store
+share
+*.ipynb_checkpoints/
+bin/
+etc/
+lib/
+pyvenv.cfg
+*.ipynb_checkpoints/Stocks-checkpoint.ipynb
