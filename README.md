@@ -1,8 +1,4 @@
-# Stocks_Market_Analysis
-
-Given historical stock price data for Apple, Microsoft, Netflix and Google over the past three months, 
-your task is to analyze and compare the performance of these companies in the stock market using various data science techniques.
-
-Specifically, the goal is to identify trends and patterns in stock price movements, 
-calculate moving averages and volatility for each company, 
-and conduct correlation analysis to examine the relationships between different stock prices.
+# Stocks_Market_Analysis 
+- We are analyzing and comparing the performance of 4 top tech companies in the stock market using various data science techniques.
+- Data was obtained from kaggle.
+- For raw instructions see here [Kaggle stock market analysis][(https://www.kaggle.com/datasets/amirmotefaker/stock-market-analysis-data).
